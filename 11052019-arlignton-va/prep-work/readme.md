@@ -27,6 +27,7 @@ Clients can hit these endpoints to ensure their client works.
 * https://demo.pygeoapi.io/master
 * https://stac.boundlessgeo.io/
 * https://tamn.snapplanet.io
+* https://databio.spacebel.be/eo-features/ (Work in progress)
 
 
 ### Clients
